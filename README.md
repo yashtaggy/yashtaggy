@@ -20,8 +20,12 @@
 ### Web Development:
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3) <br>
 
-### Database:
-![MySQL](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mysql) <br>
+### 🧰 Tools & Frameworks
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-success?style=flat&logo=spring) 
+![MySQL](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mysql) 
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker) 
+![Jenkins](https://img.shields.io/badge/-Jenkins-red?style=flat&logo=jenkins) 
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?style=flat&logo=github-actions)
 
 ### Internet of Things:
 ![Blynk](https://img.shields.io/badge/-Blynk-27AAE1?style=flat) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-red?style=flat&logo=raspberry-pi) ![ESP32](https://img.shields.io/badge/-ESP32-black?style=flat) <br>
