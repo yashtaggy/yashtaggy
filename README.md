@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there! I'm Yash Tagunde
+# I am a BTech final year Computer Science Engineering student, specialized in Artificial Intelligence and Edge Computing. 
 
 <!--
 **yashtaggy/yashtaggy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
