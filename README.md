@@ -6,6 +6,13 @@
 * 🪜 Currently Learning: Advanced Data Structures and Algorithms, Full-stack web development(Springboot), and implementing CI/CD pipelines using AWS. <br>
 * 🌎 Looking to Collaborate On: DevOps projects, Generative AI applications, innovative web apps, and open-source contributions. <br>
 
+## 📌 Featured Projects
+- [Volunteer Connect– NGO-Volunteer Matching Platform](#)
+- [Cloud-Deployed Portfolio with Docker and Jenkins](#)
+- [Web-Scraper using Python](#)
+- [Smart Home Automation using Arduino Nano BLE Sense 33](#)
+
+
 ## 🛠️ Tech Stack
 
 ### Programming Languages:
