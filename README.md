@@ -46,10 +46,10 @@
 
 ## 📫 Let’s Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yash-t-a4330b1b5/)
-- ✉️ yashtagunde704@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/yash-t-a4330b1b5/)
+- [Email](yashtagunde704@gmail.com)
+- [Portfolio](https://portfolio-eyn6.onrender.com/)
 - 💬 DM me for collaboration or freelance ideas!
-- 
 
 ---
 
