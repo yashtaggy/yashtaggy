@@ -7,9 +7,9 @@
 * 🌎 Looking to Collaborate On: DevOps projects, Generative AI applications, innovative web apps, and open-source contributions. <br>
 
 ## 🛠️ Tech Stack
-# Programming Languages: <br>
-<br>
-![Programming Languages](https://img.shields.io/badge/-Java-blue?style=flat&logo=java) ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python) <br>
+
+ ## Programming Languages:
+ ![Programming Languages](https://img.shields.io/badge/-Java-blue?style=flat&logo=java) ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python) <br>
 Web Development: <br>
 <br>
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3) <br>
