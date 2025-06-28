@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech Stack
 ![Languages](https://img.shields.io/badge/-Java-blue?style=flat&logo=java) ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python) ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-success?style=flat&logo=spring) ![MySQL](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mysql)
 ![ESP32](https://img.shields.io/badge/-ESP32-black?style=flat) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-red?style=flat&logo=raspberry-pi)
 <!--
