@@ -14,7 +14,7 @@
 
 ## 📈 GitHub Stats
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashtagunde&show_icons=true&theme=radical)
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashtaggy&show_icons=true&theme=radical)
 <!--
 
 
