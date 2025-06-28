@@ -14,10 +14,10 @@
 ### Web Development:
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3) <br>
 
-### Database: <br> 
+### Database:
 ![MySQL](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mysql) <br>
 
-### Internet of Things: <br>
+### Internet of Things:
 ![ESP32](https://img.shields.io/badge/-ESP32-black?style=flat) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-red?style=flat&logo=raspberry-pi) <br>
 
 
