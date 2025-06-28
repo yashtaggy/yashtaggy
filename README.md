@@ -35,7 +35,7 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?style=flat&logo=github-actions)
 
 ### Internet of Things:
-![Blynk](https://img.shields.io/badge/-Blynk-27AAE1?style=flat) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-red?style=flat&logo=raspberry-pi) ![ESP32](https://img.shields.io/badge/-ESP32-black?style=flat) <br>
+![Blynk](https://img.shields.io/badge/-Blynk-27AAE1?style=flat) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-red?style=flat&logo=raspberry-pi) ![ESP32](https://img.shields.io/badge/-ESP32-black?style=flat) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino) <br>
 
 
 ## 📈 GitHub Stats
