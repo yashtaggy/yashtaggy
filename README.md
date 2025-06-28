@@ -4,7 +4,9 @@
 ## 👉🏼 About Me <br>
 * ⚙ Skills: Python3, DevOps, CLoud Computing, Amazon Web Service(AWS), Google Cloud Platform(GCP), Data Structures & Algorithms (DSA), MySQL, Web Development(HTML5 & CSS), Java, C++, Artificial Intelligence & Machine Learning (AI/ML), Generative AI (GenAI). <br>
 * 🪜 Currently Learning: Advanced Data Structures and Algorithms, Full-stack web development(Springboot), and implementing CI/CD pipelines using AWS. <br>
-* 🌎 Looking to Collaborate On: DevOps projects, Generative AI applications, innovative web apps, and open-source contributions. <br>
+* ❇ Looking to Collaborate On: DevOps projects, Generative AI applications, innovative web apps, and open-source contributions. <br>
+* 🌍 Languages: English 🇬🇧 | French 🇫🇷 *(niveau B1)*
+* 📖 Hobbies: Book reading, Hiking 🏞️
 
 ## 📌 Featured Projects
 - [Volunteer Connect– NGO-Volunteer Matching Platform](#)
