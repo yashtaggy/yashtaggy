@@ -1,10 +1,12 @@
 ## Hi there! 😃 I'm Yash Tagunde
 ### I am a B Tech final year Computer Science Engineering student, specialized in Artificial Intelligence and Edge Computing. I’m passionate about coding, problem-solving, and building impactful solutions.
 
+👉🏼 About Me
+⚙ Skills: Python3, DevOps, CLoud Computing, Amazon Web Service(AWS), Google Cloud Platform(GCP), Data Structures & Algorithms (DSA), MySQL, Web Development(HTML5 & CSS), Java, C++, Artificial Intelligence & Machine Learning (AI/ML), Generative AI (GenAI). 
+🪜 Currently Learning: Advanced Data Structures and Algorithms, Full-stack web development(Springboot), and implementing CI/CD pipelines using AWS.
+🌎 Looking to Collaborate On: DevOps projects, Generative AI applications, innovative web apps, and open-source contributions.
 <!--
-**yashtaggy/yashtaggy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
