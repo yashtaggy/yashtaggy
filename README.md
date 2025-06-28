@@ -1,5 +1,5 @@
 ## Hi there! 😃 I'm Yash Tagunde
-### I am a B Tech final year Computer Science Engineering student, specialized in Artificial Intelligence and Edge Computing. 
+### I am a B Tech final year Computer Science Engineering student, specialized in Artificial Intelligence and Edge Computing. I’m passionate about coding, problem-solving, and building impactful solutions.
 
 <!--
 **yashtaggy/yashtaggy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
