@@ -48,10 +48,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashtaggy&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yashtagunde&theme=radical)](https://git.io/streak-stats)
-
-
-
 ## 📫 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/yash-t-a4330b1b5/)
@@ -62,16 +58,3 @@
 ---
 
 > “Code to create. Code to inspire.”
-
-<!--
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
