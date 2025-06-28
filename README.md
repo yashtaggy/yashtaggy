@@ -48,6 +48,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashtaggy&layout=compact&theme=radical)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=yashtagunde&theme=radical&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## 📫 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/yash-t-a4330b1b5/)
