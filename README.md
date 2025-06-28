@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech Stack
 
- ## Programming Languages:
+### Programming Languages:
  ![Programming Languages](https://img.shields.io/badge/-Java-blue?style=flat&logo=java) ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python) <br>
 Web Development: <br>
 <br>
