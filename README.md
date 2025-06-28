@@ -10,15 +10,16 @@
 
 ### Programming Languages:
  ![Programming Languages](https://img.shields.io/badge/-Java-blue?style=flat&logo=java) ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python) <br>
-Web Development: <br>
-<br>
+
+### Web Development:
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3) <br>
-<br>
-Database: <br> 
+
+### Database: <br> 
 ![MySQL](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mysql) <br>
-<br>
-Internet of Things: <br>
+
+### Internet of Things: <br>
 ![ESP32](https://img.shields.io/badge/-ESP32-black?style=flat) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-red?style=flat&logo=raspberry-pi) <br>
+
 
 ## 📈 GitHub Stats
 
