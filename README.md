@@ -1,5 +1,5 @@
 ## Hi there! 😃 I'm Yash Tagunde
-### Welcome to my GitHub profile, I am a B Tech final year Computer Science Engineering student, specialized in Artificial Intelligence and Edge Computing. I’m passionate about coding, problem-solving, and building impactful solutions.
+### Welcome to my GitHub profile, I am a B Tech final year Computer Science Engineering student from MIT ADT University, Pune, India specialized in Artificial Intelligence and Edge Computing. I enjoy building innovative tech solutions, especially around AI, DevOps, IoT, and impactful real-world applications.
 
 ## 👉🏼 About Me <br>
 * ⚙ Skills: Python3, DevOps, CLoud Computing, Amazon Web Service(AWS), Google Cloud Platform(GCP), Data Structures & Algorithms (DSA), MySQL, Web Development(HTML5 & CSS), Java, C++, Artificial Intelligence & Machine Learning (AI/ML), Generative AI (GenAI). <br>
@@ -11,6 +11,12 @@
 ### Programming Languages:
  ![Programming Languages](https://img.shields.io/badge/-Java-blue?style=flat&logo=java) ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python) <br>
 
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-orange?style=flat&logo=amazon-aws)
+![GCP](https://img.shields.io/badge/-Google%20Cloud-blue?style=flat&logo=google-cloud)
+![DevOps](https://img.shields.io/badge/-DevOps-purple?style=flat)
+
+
 ### Web Development:
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3) <br>
 
@@ -18,7 +24,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mysql) <br>
 
 ### Internet of Things:
-![ESP32](https://img.shields.io/badge/-ESP32-black?style=flat) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-red?style=flat&logo=raspberry-pi) <br>
+![Blynk](https://img.shields.io/badge/-Blynk-27AAE1?style=flat) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-red?style=flat&logo=raspberry-pi) ![ESP32](https://img.shields.io/badge/-ESP32-black?style=flat) <br>
 
 
 ## 📈 GitHub Stats
