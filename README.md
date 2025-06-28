@@ -44,6 +44,10 @@
 
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashtaggy&show_icons=true&theme=radical)
 
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashtaggy&layout=compact&theme=radical)
+
 ## 📫 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/yash-t-a4330b1b5/)
