@@ -11,7 +11,7 @@
 ## 📌 Featured Projects
 - [Volunteer Connect– NGO-Volunteer Matching Platform](https://github.com/yashtaggy/volunteer-connect.git)
 - [Cloud-Deployed Portfolio with Docker and Jenkins](https://github.com/yashtaggy/docker-portfolio.git)
-- [Web-Scraper using Python](#)
+- [Web-Scraper using Python](https://github.com/yashtaggy/Python-based-Web-Scraper.git)
 - [Smart Home Automation using Arduino Nano BLE Sense 33](#)
 
 
