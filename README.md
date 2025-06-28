@@ -11,6 +11,10 @@
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-success?style=flat&logo=spring) ![MySQL](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mysql)
 ![ESP32](https://img.shields.io/badge/-ESP32-black?style=flat) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-red?style=flat&logo=raspberry-pi)
+
+## 📈 GitHub Stats
+
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashtagunde&show_icons=true&theme=radical)
 <!--
 
 
