@@ -24,6 +24,17 @@
 ## 📈 GitHub Stats
 
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashtaggy&show_icons=true&theme=radical)
+
+## 📫 Let’s Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/yash-t-a4330b1b5/)
+- ✉️ yashtagunde704@gmail.com
+- 💬 DM me for collaboration or freelance ideas!
+
+---
+
+> “Code to create. Code to inspire.”
+
 <!--
 
 
