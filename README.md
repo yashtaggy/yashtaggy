@@ -5,6 +5,12 @@
 * ⚙ Skills: Python3, DevOps, CLoud Computing, Amazon Web Service(AWS), Google Cloud Platform(GCP), Data Structures & Algorithms (DSA), MySQL, Web Development(HTML5 & CSS), Java, C++, Artificial Intelligence & Machine Learning (AI/ML), Generative AI (GenAI). <br>
 * 🪜 Currently Learning: Advanced Data Structures and Algorithms, Full-stack web development(Springboot), and implementing CI/CD pipelines using AWS. <br>
 * 🌎 Looking to Collaborate On: DevOps projects, Generative AI applications, innovative web apps, and open-source contributions. <br>
+
+## 🛠️ Tech Stack
+![Languages](https://img.shields.io/badge/-Java-blue?style=flat&logo=java) ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python) ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-success?style=flat&logo=spring) ![MySQL](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mysql)
+![ESP32](https://img.shields.io/badge/-ESP32-black?style=flat) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-red?style=flat&logo=raspberry-pi)
 <!--
 
 
